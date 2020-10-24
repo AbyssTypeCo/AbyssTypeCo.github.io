@@ -1,0 +1,51 @@
+@font-face {
+    font-family: lunakhod;
+    src: url(assets/LunakhodMikro-Regular.otf);
+    }
+
+@font-face {
+    font-family: tethys;
+    src: url(assets/Tethys-Regular.otf);
+    }
+
+* {
+    font-family: raleway;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    text-align: inherit;
+    color: inherit;
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #000000 ;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+article{
+    text-align: center;
+}
+
+h1{
+    font-family: 'tethys';
+    font-size: 36pt;
+}
+
+p{
+    font-family: 'lunakhod';
+    font-size: 24pt;
+}
+.logo{
+    height: 70vh;
+}
+
+
