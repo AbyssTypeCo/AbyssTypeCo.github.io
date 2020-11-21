@@ -1,15 +1,15 @@
 @font-face {
     font-family: lunakhod;
-    src: url(assets/LunakhodMikro-Regular.otf);
+    src: url(Assets/LunakhodMikro-Regular.otf);
     }
 
 @font-face {
     font-family: tethys;
-    src: url(assets/Tethys-Regular.otf);
+    src: url(Assets/Tethys-Regular.otf);
     }
 
 * {
-    font-family: raleway;
+    font-family: 'lunakhod';
     font-weight: inherit;
     font-style: inherit;
     font-size: inherit;
